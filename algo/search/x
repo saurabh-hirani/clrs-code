@@ -1,0 +1,11 @@
+[1, 1, 1, 7, 2, 3]
+
+start_idx - 0|start_val - 1
+end_idx   - 5|end_val   - 3
+mid_ idx  - 2|mid_val   - 1
+
+start_idx - 0|start_val - 1
+end_idx   - 1|end_val   - 1
+mid_ idx  - 0|mid_val   - 1
+
+target idx 0

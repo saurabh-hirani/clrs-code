@@ -1,0 +1,65 @@
+saurabh@flashforth:~/redemption/python/algo$ python benchit.py  --module ins_sort --numrange 2000 --ntimes 100
+Generating dataset...
+Generated 100/100
+Generated dataset...
+benchmarking 
+numrange  - 2000
+ntimes - 100
+1.1239027977
+saurabh@flashforth:~/redemption/python/algo$ python benchit.py  --module ins_sort --numrange 4000 --ntimes 100
+Generating dataset...
+Generated 100/100
+Generated dataset...
+benchmarking 
+numrange  - 4000
+ntimes - 100
+4.25801706314
+saurabh@flashforth:~/redemption/python/algo$ python benchit.py  --module ins_sort --numrange 8000 --ntimes 100
+Generating dataset...
+Generated 100/100
+Generated dataset...
+benchmarking 
+numrange  - 8000
+ntimes - 100
+15.8705420494
+saurabh@flashforth:~/redemption/python/algo$ python benchit.py  --module ins_sort --numrange 16000 --ntimes 100
+Generating dataset...
+Generated 100/100
+Generated dataset...
+benchmarking 
+numrange  - 16000
+ntimes - 100
+62.265791893
+-------------------------------------
+saurabh@flashforth:~/redemption/python/algo$ python benchit.py --module ins_sort --numrange 2000 --ntimes 100
+Generating dataset...
+Generated 100/100
+Generated dataset...
+benchmarking 
+numrange  - 2000
+ntimes - 100
+1.29329800606
+saurabh@flashforth:~/redemption/python/algo$ python benchit.py --module ins_sort --numrange 4000 --ntimes 100
+Generating dataset...
+Generated 100/100
+Generated dataset...
+benchmarking 
+numrange  - 4000
+ntimes - 100
+4.92935800552
+saurabh@flashforth:~/redemption/python/algo$ python benchit.py --module ins_sort --numrange 8000 --ntimes 100
+Generating dataset...
+Generated 100/100
+Generated dataset...
+benchmarking 
+numrange  - 8000
+ntimes - 100
+17.5059359074
+saurabh@flashforth:~/redemption/python/algo$ python benchit.py --module ins_sort --numrange 16000 --ntimes 100
+Generating dataset...
+Generated 100/100
+Generated dataset...
+benchmarking 
+numrange  - 16000
+ntimes - 100
+72.2177808285
