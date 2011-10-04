@@ -17,8 +17,10 @@ the book:
 * Why did I do this?
 
 The main motivation behind this project was to aggregate and provide
-ready-to-run example environment as a whole and not just standalone programs.
-The most important driving factor was the ability to add a --debug option
+ready-to-run programming, testing and benchmarking environment to serve
+as supplementary material for the book.
+
+The other important driving factor was the ability to add a --debug option
 to most of the programs and see them in action (e.g. sorting, searching, etc.).
 This part coupled with nose based testing make it easier to understand
 and verify changes to the programs.
